@@ -1,1 +1,1 @@
-*New zero day in the life of full stack engineer
+MINGW64_NT-10.0-19043
